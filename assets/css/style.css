@@ -207,11 +207,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /*--------------------------------------------------------------
 # Hero Section
+# sunny-lawn.jpg is from: https://www.wikiart.org/en/vincent-van-gogh/sunny-lawn-in-a-public-park-1888
+# got Green-Grass-Fields-Wallpaper-1931.jpg here: https://cdn.osxdaily.com/wp-content/uploads/2015/05/Green-Grass-Fields-Wallpaper-1931-900x600.jpg
+# alternative image is hero-bg.jpg
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/Green-Grass-Fields-Wallpaper-1931.jpg") top center;
   background-size: cover;
 }
 
